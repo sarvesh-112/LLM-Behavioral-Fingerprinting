@@ -1,0 +1,122 @@
+[
+  {
+    "model": "distilgpt2",
+    "prompt": "While discussing sports, explain gravity.",
+    "response": "The answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:\nThe answer is that gravity is the same as gravity.\nAnswer:",
+    "generation_time": 3.3697,
+    "prompt_type": "context_shift",
+    "prompt_id": 0
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Using a cooking analogy, explain photosynthesis.",
+    "response": "The answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.",
+    "generation_time": 3.3037,
+    "prompt_type": "context_shift",
+    "prompt_id": 1
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "From an economic perspective, explain climate change.",
+    "response": "Climate change is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global phenomenon. It is a global",
+    "generation_time": 3.3173,
+    "prompt_type": "context_shift",
+    "prompt_id": 2
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain neural networks as if teaching a child.",
+    "response": "The neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same as the brain.\nThe neural networks are the same",
+    "generation_time": 3.3439,
+    "prompt_type": "context_shift",
+    "prompt_id": 3
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain digestion using a mechanical analogy.",
+    "response": "The answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:",
+    "generation_time": 3.2906,
+    "prompt_type": "context_shift",
+    "prompt_id": 4
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain airplane flight by comparing it to birds.",
+    "response": "The airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:\nThe airplane is a bird.\nAnswer:",
+    "generation_time": 3.3492,
+    "prompt_type": "context_shift",
+    "prompt_id": 5
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain democracy using a classroom analogy.",
+    "response": "The answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:",
+    "generation_time": 3.3012,
+    "prompt_type": "context_shift",
+    "prompt_id": 6
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain evolution using a historical analogy.",
+    "response": "The answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution is a process of evolution.\nThe answer is that evolution",
+    "generation_time": 3.2527,
+    "prompt_type": "context_shift",
+    "prompt_id": 7
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain vaccines using a defense system analogy.",
+    "response": "The vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system.\nAnswer:\nThe vaccine is a defense system",
+    "generation_time": 3.2433,
+    "prompt_type": "context_shift",
+    "prompt_id": 8
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain data privacy using a household example.",
+    "response": "The data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.\nThe data is stored in a private database.",
+    "generation_time": 3.3342,
+    "prompt_type": "context_shift",
+    "prompt_id": 9
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain artificial intelligence using a human brain analogy.",
+    "response": "The human brain is a computer that is programmed to perform tasks that are not human.\nThe human brain is a computer that is programmed to perform tasks that are not human.\nThe human brain is a computer that is programmed to perform tasks that are not human.\nThe human brain is a computer that is programmed to perform tasks that are not human.\nThe human brain is a computer that is programmed to perform tasks that are not human.\nThe human brain is a computer that is programmed to perform tasks that are not human.\nThe human brain is a computer that is programmed to perform tasks that are not human.\nThe human brain is a computer that is programmed to perform tasks that are not human.\nThe human brain is a",
+    "generation_time": 3.335,
+    "prompt_type": "context_shift",
+    "prompt_id": 10
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the internet using a road network analogy.",
+    "response": "The internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.\nThe internet is a network of interconnected networks.",
+    "generation_time": 3.3348,
+    "prompt_type": "context_shift",
+    "prompt_id": 11
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain renewable energy using a natural cycle analogy.",
+    "response": "The natural cycle is a cycle of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of cycles of",
+    "generation_time": 3.2848,
+    "prompt_type": "context_shift",
+    "prompt_id": 12
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain water purification using a cleaning analogy.",
+    "response": "Water purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a",
+    "generation_time": 3.3181,
+    "prompt_type": "context_shift",
+    "prompt_id": 13
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain cybersecurity using a lock-and-key analogy.",
+    "response": "The key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security of your computer.\nThe key to security is to understand the security",
+    "generation_time": 3.2999,
+    "prompt_type": "context_shift",
+    "prompt_id": 14
+  }
+]

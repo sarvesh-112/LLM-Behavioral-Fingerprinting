@@ -1,0 +1,122 @@
+[
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain gravity assuming objects do not attract each other.",
+    "response": "The gravity of the object is not the same as the gravity of the object.\nAnswer:\nThe gravity of the object is not the same as the gravity of the object.\nAnswer:\nThe gravity of the object is not the same as the gravity of the object.\nAnswer:\nThe gravity of the object is not the same as the gravity of the object.\nAnswer:\nThe gravity of the object is not the same as the gravity of the object.\nAnswer:\nThe gravity of the object is not the same as the gravity of the object.\nAnswer:\nThe gravity of the object is not the same as the gravity of the object.\nAnswer:\nThe gravity of the object is not the same",
+    "generation_time": 3.3382,
+    "prompt_type": "contradiction",
+    "prompt_id": 0
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain photosynthesis assuming plants do not need light.",
+    "response": "The answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.",
+    "generation_time": 3.3046,
+    "prompt_type": "contradiction",
+    "prompt_id": 1
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain climate change assuming human activity has no effect.",
+    "response": "The answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.",
+    "generation_time": 3.3323,
+    "prompt_type": "contradiction",
+    "prompt_id": 2
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain neural networks assuming no data is required.",
+    "response": "The neural network is a network of neurons that are connected to the brain. The neurons are connected to the brain. The neurons are connected to the brain. The neurons are connected to the brain. The neurons are connected to the brain.\nAnswer:\nThe neural network is a network of neurons that are connected to the brain. The neurons are connected to the brain. The neurons are connected to the brain.\nAnswer:\nThe neural network is a network of neurons that are connected to the brain. The neurons are connected to the brain. The neurons are connected to the brain.\nAnswer:\nThe neural network is a network of neurons that are connected to the brain. The neurons are connected to the brain. The neurons are connected to",
+    "generation_time": 3.3108,
+    "prompt_type": "contradiction",
+    "prompt_id": 3
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain digestion assuming enzymes play no role.",
+    "response": "The answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:",
+    "generation_time": 3.328,
+    "prompt_type": "contradiction",
+    "prompt_id": 4
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain airplane flight assuming air resistance does not exist.",
+    "response": "The airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane.\nAnswer:\nThe airplane is not a plane",
+    "generation_time": 3.2988,
+    "prompt_type": "contradiction",
+    "prompt_id": 5
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe democracy assuming leaders are never elected.",
+    "response": "The only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected is to be a leader.\nThe only way to get elected",
+    "generation_time": 3.3164,
+    "prompt_type": "contradiction",
+    "prompt_id": 6
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain evolution assuming species never change.",
+    "response": "The answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.",
+    "generation_time": 3.3503,
+    "prompt_type": "contradiction",
+    "prompt_id": 7
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain vaccines assuming the body does not respond.",
+    "response": "The body does respond to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response to the body's response",
+    "generation_time": 3.3003,
+    "prompt_type": "contradiction",
+    "prompt_id": 8
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain data privacy assuming no data misuse occurs.",
+    "response": "The data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.",
+    "generation_time": 3.9533,
+    "prompt_type": "contradiction",
+    "prompt_id": 9
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain artificial intelligence assuming no automation exists.",
+    "response": "The answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.\nAnswer:\nThe answer is yes.",
+    "generation_time": 3.5894,
+    "prompt_type": "contradiction",
+    "prompt_id": 10
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe the internet assuming computers are not connected.",
+    "response": "The internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:\nThe internet is not connected.\nAnswer:",
+    "generation_time": 3.3128,
+    "prompt_type": "contradiction",
+    "prompt_id": 11
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain renewable energy assuming resources never replenish.",
+    "response": "The answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:",
+    "generation_time": 3.3359,
+    "prompt_type": "contradiction",
+    "prompt_id": 12
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe water purification assuming contaminants are harmless.",
+    "response": "Water purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants are harmless.\nAnswer:\nWater purification assumes contaminants",
+    "generation_time": 3.3106,
+    "prompt_type": "contradiction",
+    "prompt_id": 13
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain cybersecurity assuming systems are always safe.",
+    "response": "The answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:",
+    "generation_time": 3.3137,
+    "prompt_type": "contradiction",
+    "prompt_id": 14
+  }
+]

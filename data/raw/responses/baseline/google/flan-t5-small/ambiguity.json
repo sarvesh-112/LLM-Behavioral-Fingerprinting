@@ -1,0 +1,122 @@
+[
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Briefly explain gravity.",
+    "response": "a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a symphony of a sym",
+    "generation_time": 3.1751,
+    "prompt_type": "ambiguity",
+    "prompt_id": 0
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain photosynthesis in simple terms.",
+    "response": "Photosynthesis is the process of photosynthesis.",
+    "generation_time": 0.2327,
+    "prompt_type": "ambiguity",
+    "prompt_id": 1
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain climate change briefly.",
+    "response": "Explain the climate change.",
+    "generation_time": 0.1589,
+    "prompt_type": "ambiguity",
+    "prompt_id": 2
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Give a short explanation of neural networks.",
+    "response": "The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism. The neural network is a network of a particular type of organism.",
+    "generation_time": 3.2124,
+    "prompt_type": "ambiguity",
+    "prompt_id": 3
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain digestion concisely.",
+    "response": "Describe the digestive system.",
+    "generation_time": 0.1847,
+    "prompt_type": "ambiguity",
+    "prompt_id": 4
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Briefly explain how airplanes fly.",
+    "response": "Describe how airplanes fly.",
+    "generation_time": 0.1627,
+    "prompt_type": "ambiguity",
+    "prompt_id": 5
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain democracy simply.",
+    "response": "a democratic state.",
+    "generation_time": 0.1448,
+    "prompt_type": "ambiguity",
+    "prompt_id": 6
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain evolution shortly.",
+    "response": "Evolution is a process of reversal of the inherited system.",
+    "generation_time": 0.3447,
+    "prompt_type": "ambiguity",
+    "prompt_id": 7
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Briefly explain how vaccines work.",
+    "response": "Vaccines are used to treat a variety of diseases.",
+    "generation_time": 0.2854,
+    "prompt_type": "ambiguity",
+    "prompt_id": 8
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain data privacy simply.",
+    "response": "The data is used to provide information about the user.",
+    "generation_time": 0.2855,
+    "prompt_type": "ambiguity",
+    "prompt_id": 9
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Briefly explain artificial intelligence.",
+    "response": "a symbiosis of artificial intelligence",
+    "generation_time": 0.2353,
+    "prompt_type": "ambiguity",
+    "prompt_id": 10
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the internet in simple terms.",
+    "response": "Internet is the only place where you can find the information you need.",
+    "generation_time": 0.3474,
+    "prompt_type": "ambiguity",
+    "prompt_id": 11
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Briefly explain renewable energy.",
+    "response": "a regenerative energy is a renewable resource.",
+    "generation_time": 0.2868,
+    "prompt_type": "ambiguity",
+    "prompt_id": 12
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain water purification briefly.",
+    "response": "The water purification process is a process that requires water to be purified.",
+    "generation_time": 0.4161,
+    "prompt_type": "ambiguity",
+    "prompt_id": 13
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain cybersecurity simply.",
+    "response": "Computers are the most common and most common types of malware.",
+    "generation_time": 0.3209,
+    "prompt_type": "ambiguity",
+    "prompt_id": 14
+  }
+]

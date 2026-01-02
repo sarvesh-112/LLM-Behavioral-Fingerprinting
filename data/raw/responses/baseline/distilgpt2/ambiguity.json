@@ -1,0 +1,122 @@
+[
+  {
+    "model": "distilgpt2",
+    "prompt": "Briefly explain gravity.",
+    "response": "The gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth is the same as the Earth.\nAnswer:\nThe gravity of the Earth",
+    "generation_time": 3.2802,
+    "prompt_type": "ambiguity",
+    "prompt_id": 0
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain photosynthesis in simple terms.",
+    "response": "The answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.",
+    "generation_time": 3.3012,
+    "prompt_type": "ambiguity",
+    "prompt_id": 1
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain climate change briefly.",
+    "response": "The answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:",
+    "generation_time": 3.3118,
+    "prompt_type": "ambiguity",
+    "prompt_id": 2
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Give a short explanation of neural networks.",
+    "response": "The neural networks are a network of neurons that are connected to the brain. They are connected to the brain. They are connected to the brain. They are connected to the brain. They are connected to the brain. They are connected to the brain.\nAnswer:\nThe neural networks are a network of neurons that are connected to the brain. They are connected to the brain. They are connected to the brain.\nAnswer:\nThe neural networks are a network of neurons that are connected to the brain. They are connected to the brain. They are connected to the brain.\nAnswer:\nThe neural networks are a network of neurons that are connected to the brain. They are connected to the brain.\nAnswer:\nThe neural networks",
+    "generation_time": 3.2893,
+    "prompt_type": "ambiguity",
+    "prompt_id": 3
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain digestion concisely.",
+    "response": "The answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.\nAnswer:\nThe answer is simple.",
+    "generation_time": 3.3549,
+    "prompt_type": "ambiguity",
+    "prompt_id": 4
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Briefly explain how airplanes fly.",
+    "response": "The airplane is a small, small, small aircraft that can fly in a wide range of conditions.\nThe airplane is a small, small, small aircraft that can fly in a wide range of conditions.\nThe airplane is a small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small, small",
+    "generation_time": 3.3663,
+    "prompt_type": "ambiguity",
+    "prompt_id": 5
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain democracy simply.",
+    "response": "The answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.",
+    "generation_time": 3.3208,
+    "prompt_type": "ambiguity",
+    "prompt_id": 6
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain evolution shortly.",
+    "response": "The answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.",
+    "generation_time": 3.3248,
+    "prompt_type": "ambiguity",
+    "prompt_id": 7
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Briefly explain how vaccines work.",
+    "response": "The vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine",
+    "generation_time": 3.3262,
+    "prompt_type": "ambiguity",
+    "prompt_id": 8
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain data privacy simply.",
+    "response": "The data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.",
+    "generation_time": 3.3302,
+    "prompt_type": "ambiguity",
+    "prompt_id": 9
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Briefly explain artificial intelligence.",
+    "response": "The answer is that artificial intelligence is not a good idea. It is a good idea.\nThe answer is that artificial intelligence is not a good idea. It is a good idea.\nThe answer is that artificial intelligence is not a good idea. It is a good idea.\nThe answer is that artificial intelligence is not a good idea. It is a good idea.\nThe answer is that artificial intelligence is not a good idea. It is a good idea.\nThe answer is that artificial intelligence is not a good idea. It is a good idea.\nThe answer is that artificial intelligence is not a good idea. It is a good idea.\nThe answer is that artificial intelligence is not a good idea. It is a good",
+    "generation_time": 3.2842,
+    "prompt_type": "ambiguity",
+    "prompt_id": 10
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the internet in simple terms.",
+    "response": "The internet is a place where people can connect and communicate with each other.\nThe internet is a place where people can connect and communicate with each other.\nThe internet is a place where people can connect and communicate with each other.\nThe internet is a place where people can connect and communicate with each other.\nThe internet is a place where people can connect and communicate with each other.\nThe internet is a place where people can connect and communicate with each other.\nThe internet is a place where people can connect and communicate with each other.\nThe internet is a place where people can connect and communicate with each other.\nThe internet is a place where people can connect and communicate with each other.\nThe internet is a place",
+    "generation_time": 3.3004,
+    "prompt_type": "ambiguity",
+    "prompt_id": 11
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Briefly explain renewable energy.",
+    "response": "The answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:",
+    "generation_time": 3.3186,
+    "prompt_type": "ambiguity",
+    "prompt_id": 12
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain water purification briefly.",
+    "response": "Water purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a process of purification of water.\nAnswer:\nWater purification is a",
+    "generation_time": 3.2996,
+    "prompt_type": "ambiguity",
+    "prompt_id": 13
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain cybersecurity simply.",
+    "response": "The answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.\nThe answer is simple.",
+    "generation_time": 3.3017,
+    "prompt_type": "ambiguity",
+    "prompt_id": 14
+  }
+]

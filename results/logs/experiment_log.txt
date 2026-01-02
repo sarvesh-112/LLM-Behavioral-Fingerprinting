@@ -1,0 +1,14 @@
+LLM Behavioral Fingerprinting Experiment
+=============================================
+Samples: 8
+Fingerprint dimension: 4
+Models: {np.str_('flan_t5'), np.str_('distilgpt2')}
+Figures generated:
+- PCA
+- t-SNE
+- Feature bars
+- Distance heatmap
+Tables generated:
+- fingerprint_vectors.csv
+- feature_statistics.csv
+- inter_model_distances.csv

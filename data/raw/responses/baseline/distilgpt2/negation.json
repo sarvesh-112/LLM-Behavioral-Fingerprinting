@@ -1,0 +1,122 @@
+[
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain gravity. Do NOT mention mass.",
+    "response": "The gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth is the same as the gravity of the Earth.\nThe gravity of the Earth",
+    "generation_time": 3.3374,
+    "prompt_type": "negation",
+    "prompt_id": 0
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe photosynthesis without referring to sunlight.",
+    "response": "The answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.",
+    "generation_time": 3.3847,
+    "prompt_type": "negation",
+    "prompt_id": 1
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain climate change without mentioning carbon dioxide.",
+    "response": "The answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:",
+    "generation_time": 3.3645,
+    "prompt_type": "negation",
+    "prompt_id": 2
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe a neural network without using the term “learning”.",
+    "response": "“learning” is a term that is used to describe neural networks without using the term “learning”.\nAnswer: “learning” is a term that is used to describe neural networks without using the term “learning”.\nAnswer: “learning” is a term that is used to describe neural networks without using the term “learning”.\nAnswer: “learning” is a term that is used to describe neural networks without using the term “learning”.\nAnswer: “learning” is a term that is used to describe neural networks without using the term “learning”.\nAnswer: “learning” is a term that is",
+    "generation_time": 3.2974,
+    "prompt_type": "negation",
+    "prompt_id": 3
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain digestion without mentioning enzymes.",
+    "response": "The answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:\nThe answer is:",
+    "generation_time": 3.2904,
+    "prompt_type": "negation",
+    "prompt_id": 4
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain how airplanes fly without using the word “lift”.",
+    "response": "“lift” is a word that is used in the word “lift”.\nAnswer:\n“lift” is a word that is used in the word “lift”.\nAnswer:\n“lift” is a word that is used in the word “lift”.\nAnswer:\n“lift” is a word that is used in the word “lift”.\nAnswer:\n“lift” is a word that is used in the word “lift”.\nAnswer:\n“lift” is a word that is used in the word “lift”.\nAnswer:\n“lift”",
+    "generation_time": 3.3397,
+    "prompt_type": "negation",
+    "prompt_id": 5
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe democracy without mentioning voting.",
+    "response": "The answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.\nThe answer is yes.",
+    "generation_time": 3.3057,
+    "prompt_type": "negation",
+    "prompt_id": 6
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain evolution without mentioning natural selection.",
+    "response": "The answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is not a natural selection process.\nThe answer is that evolution is",
+    "generation_time": 3.2849,
+    "prompt_type": "negation",
+    "prompt_id": 7
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe vaccines without mentioning immunity.",
+    "response": "The vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to the virus.\nAnswer:\nThe vaccine is not immune to",
+    "generation_time": 3.3812,
+    "prompt_type": "negation",
+    "prompt_id": 8
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain data privacy without mentioning security.",
+    "response": "The data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data is not encrypted.\nThe data",
+    "generation_time": 3.4225,
+    "prompt_type": "negation",
+    "prompt_id": 9
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain artificial intelligence without mentioning machines.",
+    "response": "The answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:\nThe answer is that artificial intelligence is not a machine.\nAnswer:",
+    "generation_time": 3.3465,
+    "prompt_type": "negation",
+    "prompt_id": 10
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe how the internet works without mentioning servers.",
+    "response": "The internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact",
+    "generation_time": 3.3223,
+    "prompt_type": "negation",
+    "prompt_id": 11
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain renewable energy without mentioning fossil fuels.",
+    "response": "The answer is yes.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.\nThe answer is no.",
+    "generation_time": 3.2859,
+    "prompt_type": "negation",
+    "prompt_id": 12
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe water purification without mentioning filtration.",
+    "response": "Water purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning filtration.\nAnswer:\nWater purification without mentioning fil",
+    "generation_time": 3.3084,
+    "prompt_type": "negation",
+    "prompt_id": 13
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain cybersecurity without mentioning attacks.",
+    "response": "The answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:\nThe answer is simple:",
+    "generation_time": 3.2972,
+    "prompt_type": "negation",
+    "prompt_id": 14
+  }
+]

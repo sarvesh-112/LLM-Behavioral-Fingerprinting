@@ -1,0 +1,122 @@
+[
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the concept of gravity.",
+    "response": "Gravity is the kinetic energy of a substance.",
+    "generation_time": 0.5638,
+    "prompt_type": "base",
+    "prompt_id": 0
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe how photosynthesis works.",
+    "response": "Describe how photosynthesis works.",
+    "generation_time": 0.1901,
+    "prompt_type": "base",
+    "prompt_id": 1
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the causes of climate change.",
+    "response": "Climate change is a global warming problem.",
+    "generation_time": 0.2496,
+    "prompt_type": "base",
+    "prompt_id": 2
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe the working principle of a neural network.",
+    "response": "a neural network is a network that is a cellular network.",
+    "generation_time": 0.3734,
+    "prompt_type": "base",
+    "prompt_id": 3
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the process of human digestion.",
+    "response": "The digestion of food is the process of digestion.",
+    "generation_time": 0.2094,
+    "prompt_type": "base",
+    "prompt_id": 4
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain how airplanes are able to fly.",
+    "response": "Describe how airplanes are able to fly.",
+    "generation_time": 0.2443,
+    "prompt_type": "base",
+    "prompt_id": 5
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe the concept of democracy.",
+    "response": "a democratic system",
+    "generation_time": 0.1421,
+    "prompt_type": "base",
+    "prompt_id": 6
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the theory of evolution.",
+    "response": "Evolution is a process of evolution.",
+    "generation_time": 0.2146,
+    "prompt_type": "base",
+    "prompt_id": 7
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe how vaccines work.",
+    "response": "Describe how vaccines work.",
+    "generation_time": 0.1826,
+    "prompt_type": "base",
+    "prompt_id": 8
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the importance of data privacy.",
+    "response": "Data privacy is the responsibility of the user.",
+    "generation_time": 0.2314,
+    "prompt_type": "base",
+    "prompt_id": 9
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain what artificial intelligence is.",
+    "response": "Artificial intelligence is the ability to detect and measure the size of an object.",
+    "generation_time": 0.3466,
+    "prompt_type": "base",
+    "prompt_id": 10
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe how the internet works.",
+    "response": "What is the best way to use the internet?",
+    "generation_time": 0.2599,
+    "prompt_type": "base",
+    "prompt_id": 11
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the concept of renewable energy.",
+    "response": "Renewable energy is a renewable resource.",
+    "generation_time": 0.2311,
+    "prompt_type": "base",
+    "prompt_id": 12
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe the process of water purification.",
+    "response": "The process of purification of water is called water purification.",
+    "generation_time": 0.2786,
+    "prompt_type": "base",
+    "prompt_id": 13
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the importance of cybersecurity.",
+    "response": "The cybersecurity industry is a global industry.",
+    "generation_time": 0.2335,
+    "prompt_type": "base",
+    "prompt_id": 14
+  }
+]

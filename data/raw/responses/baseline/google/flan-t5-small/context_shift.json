@@ -1,0 +1,122 @@
+[
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "While discussing sports, explain gravity.",
+    "response": "physics.",
+    "generation_time": 0.1039,
+    "prompt_type": "context_shift",
+    "prompt_id": 0
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Using a cooking analogy, explain photosynthesis.",
+    "response": "Using a cooking analogy, explain photosynthesis.",
+    "generation_time": 0.2882,
+    "prompt_type": "context_shift",
+    "prompt_id": 1
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "From an economic perspective, explain climate change.",
+    "response": "climatic change.",
+    "generation_time": 0.1412,
+    "prompt_type": "context_shift",
+    "prompt_id": 2
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain neural networks as if teaching a child.",
+    "response": "Describe the neural network as a child.",
+    "generation_time": 0.2239,
+    "prompt_type": "context_shift",
+    "prompt_id": 3
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain digestion using a mechanical analogy.",
+    "response": "The mechanical analogy is used to describe digestion.",
+    "generation_time": 0.2652,
+    "prompt_type": "context_shift",
+    "prompt_id": 4
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain airplane flight by comparing it to birds.",
+    "response": "The airplane is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a plane that is a",
+    "generation_time": 3.0282,
+    "prompt_type": "context_shift",
+    "prompt_id": 5
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain democracy using a classroom analogy.",
+    "response": "The term \"democratic\" is used to describe the state of the state.",
+    "generation_time": 0.3656,
+    "prompt_type": "context_shift",
+    "prompt_id": 6
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain evolution using a historical analogy.",
+    "response": "Evolution is a process of evolution.",
+    "generation_time": 0.1974,
+    "prompt_type": "context_shift",
+    "prompt_id": 7
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain vaccines using a defense system analogy.",
+    "response": "Describe vaccines using a defense system analogy.",
+    "generation_time": 0.3145,
+    "prompt_type": "context_shift",
+    "prompt_id": 8
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain data privacy using a household example.",
+    "response": "A person may be able to access the data by using a mobile device.",
+    "generation_time": 0.3607,
+    "prompt_type": "context_shift",
+    "prompt_id": 9
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain artificial intelligence using a human brain analogy.",
+    "response": "Artificial intelligence is a tool used to measure the size of a human brain.",
+    "generation_time": 0.3835,
+    "prompt_type": "context_shift",
+    "prompt_id": 10
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain the internet using a road network analogy.",
+    "response": "Describe the internet using a road network analogy.",
+    "generation_time": 0.3116,
+    "prompt_type": "context_shift",
+    "prompt_id": 11
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain renewable energy using a natural cycle analogy.",
+    "response": "Describe renewable energy using a natural cycle analogy.",
+    "generation_time": 0.3109,
+    "prompt_type": "context_shift",
+    "prompt_id": 12
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain water purification using a cleaning analogy.",
+    "response": "Cleanse water with a cleaning analogy.",
+    "generation_time": 0.2945,
+    "prompt_type": "context_shift",
+    "prompt_id": 13
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain cybersecurity using a lock-and-key analogy.",
+    "response": "The term \"lock-and-key\" is used to describe the process of a computer.",
+    "generation_time": 0.4657,
+    "prompt_type": "context_shift",
+    "prompt_id": 14
+  }
+]

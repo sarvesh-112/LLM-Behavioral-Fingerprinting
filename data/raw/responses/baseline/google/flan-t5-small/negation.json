@@ -1,0 +1,122 @@
+[
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain gravity. Do NOT mention mass.",
+    "response": "The atoms of the Earth are the same as the Earth.",
+    "generation_time": 0.3005,
+    "prompt_type": "negation",
+    "prompt_id": 0
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe photosynthesis without referring to sunlight.",
+    "response": "Describe the process of photosynthesis without referring to sunlight.",
+    "generation_time": 0.3392,
+    "prompt_type": "negation",
+    "prompt_id": 1
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain climate change without mentioning carbon dioxide.",
+    "response": "Describe climate change without mentioning carbon dioxide.",
+    "generation_time": 0.2478,
+    "prompt_type": "negation",
+    "prompt_id": 2
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe a neural network without using the term “learning”.",
+    "response": "a neural network",
+    "generation_time": 0.1371,
+    "prompt_type": "negation",
+    "prompt_id": 3
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain digestion without mentioning enzymes.",
+    "response": "Describe digestion without mentioning enzymes.",
+    "generation_time": 0.2267,
+    "prompt_type": "negation",
+    "prompt_id": 4
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain how airplanes fly without using the word “lift”.",
+    "response": "The airplanes are a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that is a wing plane that",
+    "generation_time": 3.1176,
+    "prompt_type": "negation",
+    "prompt_id": 5
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe democracy without mentioning voting.",
+    "response": "describing democracy without mentioning voting.",
+    "generation_time": 0.2243,
+    "prompt_type": "negation",
+    "prompt_id": 6
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain evolution without mentioning natural selection.",
+    "response": "Evolution is a process of evolution.",
+    "generation_time": 0.1585,
+    "prompt_type": "negation",
+    "prompt_id": 7
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe vaccines without mentioning immunity.",
+    "response": "Vaccines are not vaccines.",
+    "generation_time": 0.2475,
+    "prompt_type": "negation",
+    "prompt_id": 8
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain data privacy without mentioning security.",
+    "response": "Explain the privacy of your data.",
+    "generation_time": 0.1867,
+    "prompt_type": "negation",
+    "prompt_id": 9
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain artificial intelligence without mentioning machines.",
+    "response": "Artificial intelligence is a tool used to measure the size of a machine.",
+    "generation_time": 0.386,
+    "prompt_type": "negation",
+    "prompt_id": 10
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe how the internet works without mentioning servers.",
+    "response": "Describe how the internet works without mentioning servers.",
+    "generation_time": 0.2853,
+    "prompt_type": "negation",
+    "prompt_id": 11
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain renewable energy without mentioning fossil fuels.",
+    "response": "Describe renewable energy without mentioning fossil fuels.",
+    "generation_time": 0.2647,
+    "prompt_type": "negation",
+    "prompt_id": 12
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe water purification without mentioning filtration.",
+    "response": "Describe the water purification without mentioning filtration.",
+    "generation_time": 0.2784,
+    "prompt_type": "negation",
+    "prompt_id": 13
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain cybersecurity without mentioning attacks.",
+    "response": "Describe cybersecurity without mentioning attacks.",
+    "generation_time": 0.2235,
+    "prompt_type": "negation",
+    "prompt_id": 14
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain gravity assuming objects do not attract each other.",
+    "response": "Describe the gravity of objects.",
+    "generation_time": 0.2114,
+    "prompt_type": "contradiction",
+    "prompt_id": 0
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain photosynthesis assuming plants do not need light.",
+    "response": "Describe the process of photosynthesis.",
+    "generation_time": 0.1933,
+    "prompt_type": "contradiction",
+    "prompt_id": 1
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain climate change assuming human activity has no effect.",
+    "response": "if the climate is a global warming problem, then the climate is a global warming problem.",
+    "generation_time": 0.5088,
+    "prompt_type": "contradiction",
+    "prompt_id": 2
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain neural networks assuming no data is required.",
+    "response": "Describe the neural network if you are a student.",
+    "generation_time": 0.3357,
+    "prompt_type": "contradiction",
+    "prompt_id": 3
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain digestion assuming enzymes play no role.",
+    "response": "Explain digestion assuming enzymes play no role.",
+    "generation_time": 0.2532,
+    "prompt_type": "contradiction",
+    "prompt_id": 4
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain airplane flight assuming air resistance does not exist.",
+    "response": "Air resistance is a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor that is not a factor",
+    "generation_time": 3.1489,
+    "prompt_type": "contradiction",
+    "prompt_id": 5
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe democracy assuming leaders are never elected.",
+    "response": "The term \"leader\" is a term used to describe the political system.",
+    "generation_time": 0.3824,
+    "prompt_type": "contradiction",
+    "prompt_id": 6
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain evolution assuming species never change.",
+    "response": "if you are a genus, you will have to change the genus.",
+    "generation_time": 0.506,
+    "prompt_type": "contradiction",
+    "prompt_id": 7
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain vaccines assuming the body does not respond.",
+    "response": "Explain vaccines if the body does not respond.",
+    "generation_time": 0.288,
+    "prompt_type": "contradiction",
+    "prompt_id": 8
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain data privacy assuming no data misuse occurs.",
+    "response": "Explain the privacy of your personal data.",
+    "generation_time": 0.2512,
+    "prompt_type": "contradiction",
+    "prompt_id": 9
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain artificial intelligence assuming no automation exists.",
+    "response": "Artificial intelligence is a technology that is used to measure the size of a machine.",
+    "generation_time": 0.4288,
+    "prompt_type": "contradiction",
+    "prompt_id": 10
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe the internet assuming computers are not connected.",
+    "response": "a computer is a computer that is connected to a computer.",
+    "generation_time": 0.3798,
+    "prompt_type": "contradiction",
+    "prompt_id": 11
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain renewable energy assuming resources never replenish.",
+    "response": "Explain renewable energy if you are a renewable resource.",
+    "generation_time": 0.329,
+    "prompt_type": "contradiction",
+    "prompt_id": 12
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Describe water purification assuming contaminants are harmless.",
+    "response": "Describe the water purification process.",
+    "generation_time": 0.1997,
+    "prompt_type": "contradiction",
+    "prompt_id": 13
+  },
+  {
+    "model": "google/flan-t5-small",
+    "prompt": "Explain cybersecurity assuming systems are always safe.",
+    "response": "Explain that the system is always safe.",
+    "generation_time": 0.2074,
+    "prompt_type": "contradiction",
+    "prompt_id": 14
+  }
+]

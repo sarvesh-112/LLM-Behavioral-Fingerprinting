@@ -1,0 +1,122 @@
+[
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the concept of gravity.",
+    "response": "The concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity.\nAnswer:\nThe concept of gravity is the concept of gravity",
+    "generation_time": 3.8039,
+    "prompt_type": "base",
+    "prompt_id": 0
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe how photosynthesis works.",
+    "response": "The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process that takes place in the atmosphere. The photosynthesis is a process",
+    "generation_time": 3.3738,
+    "prompt_type": "base",
+    "prompt_id": 1
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the causes of climate change.",
+    "response": "The climate change problem is not a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem. It is a problem.",
+    "generation_time": 3.2578,
+    "prompt_type": "base",
+    "prompt_id": 2
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe the working principle of a neural network.",
+    "response": "The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain. The neural network is a network of neurons that are connected to the brain",
+    "generation_time": 3.204,
+    "prompt_type": "base",
+    "prompt_id": 3
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the process of human digestion.",
+    "response": "The process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion is the process of digestion.\nThe process of human digestion",
+    "generation_time": 3.3602,
+    "prompt_type": "base",
+    "prompt_id": 4
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain how airplanes are able to fly.",
+    "response": "The airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly.\nAnswer:\nThe airplane is able to fly",
+    "generation_time": 3.3373,
+    "prompt_type": "base",
+    "prompt_id": 5
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe the concept of democracy.",
+    "response": "The concept of democracy is that the people are free to choose their own political and economic interests.\nThe concept of democracy is that the people are free to choose their own political and economic interests.\nThe concept of democracy is that the people are free to choose their own political and economic interests.\nThe concept of democracy is that the people are free to choose their own political and economic interests.\nThe concept of democracy is that the people are free to choose their own political and economic interests.\nThe concept of democracy is that the people are free to choose their own political and economic interests.\nThe concept of democracy is that the people are free to choose their own political and economic interests.\nThe concept of democracy is that the people are",
+    "generation_time": 3.2965,
+    "prompt_type": "base",
+    "prompt_id": 6
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the theory of evolution.",
+    "response": "The theory of evolution is that the universe is a complex system of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of systems of",
+    "generation_time": 3.3518,
+    "prompt_type": "base",
+    "prompt_id": 7
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe how vaccines work.",
+    "response": "The vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine that is administered to a person who is sick or ill.\nThe vaccine is a vaccine",
+    "generation_time": 3.332,
+    "prompt_type": "base",
+    "prompt_id": 8
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the importance of data privacy.",
+    "response": "The data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.\nThe data is not stored in the database.",
+    "generation_time": 3.2814,
+    "prompt_type": "base",
+    "prompt_id": 9
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain what artificial intelligence is.",
+    "response": "The answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence is not a good idea.\nThe answer is that artificial intelligence",
+    "generation_time": 3.3264,
+    "prompt_type": "base",
+    "prompt_id": 10
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe how the internet works.",
+    "response": "The internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact with each other.\nThe internet is a place where people can interact",
+    "generation_time": 3.2741,
+    "prompt_type": "base",
+    "prompt_id": 11
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the concept of renewable energy.",
+    "response": "The concept of renewable energy is that it is a form of energy that is not produced by the sun.\nThe concept of renewable energy is that it is a form of energy that is not produced by the sun.\nThe concept of renewable energy is that it is a form of energy that is not produced by the sun.\nThe concept of renewable energy is that it is a form of energy that is not produced by the sun.\nThe concept of renewable energy is that it is a form of energy that is not produced by the sun.\nThe concept of renewable energy is that it is a form of energy that is not produced by the sun.\nThe concept of renewable energy is that it is a form of energy that is not produced",
+    "generation_time": 3.2903,
+    "prompt_type": "base",
+    "prompt_id": 12
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Describe the process of water purification.",
+    "response": "The process of water purification is the process of water purification.\nAnswer:\nThe process of water purification is the process of water purification.\nAnswer:\nThe process of water purification is the process of water purification.\nAnswer:\nThe process of water purification is the process of water purification.\nAnswer:\nThe process of water purification is the process of water purification.\nAnswer:\nThe process of water purification is the process of water purification.\nAnswer:\nThe process of water purification is the process of water purification.\nAnswer:\nThe process of water purification is the process of water purification.\nAnswer:\nThe process of water pur",
+    "generation_time": 3.3052,
+    "prompt_type": "base",
+    "prompt_id": 13
+  },
+  {
+    "model": "distilgpt2",
+    "prompt": "Explain the importance of cybersecurity.",
+    "response": "The first question is:\nWhat is the security of your computer?\nAnswer:\nThe second question is:\nWhat is the security of your computer?\nAnswer:\nThe third question is:\nWhat is the security of your computer?\nAnswer:\nThe fourth question is:\nWhat is the security of your computer?\nAnswer:\nThe fifth question is:\nWhat is the security of your computer?\nAnswer:\nThe sixth question is:\nWhat is the security of your computer?\nAnswer:\nThe seventh question is:\nWhat is the security of your computer?\nAnswer:\nThe eighth question is:\nWhat is the security of your computer?\nAnswer:\nThe ninth question is:",
+    "generation_time": 3.3501,
+    "prompt_type": "base",
+    "prompt_id": 14
+  }
+]
